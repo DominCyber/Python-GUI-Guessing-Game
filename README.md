@@ -101,7 +101,6 @@ if __name__ == "__main__":
         
 ### Testing
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/M26eIgk"><a href="//imgur.com/M26eIgk"></a></blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
