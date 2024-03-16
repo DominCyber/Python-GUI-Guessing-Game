@@ -100,9 +100,8 @@ if __name__ == "__main__":
         print("\nProgram closed.")
         
 ### Testing
-
-  <img src="https://imgur.com/msTollL" />
-
+<a href="https://www.instagram.com/?hl=en">
+         <img src="https://www.instagram.com/?hl=en" alt="Instagram" width= "40px" height= "40px"></a>
 
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
