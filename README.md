@@ -100,9 +100,7 @@ if __name__ == "__main__":
         print("\nProgram closed.")
         
 ### Testing
-<a href="https://www.instagram.com/?hl=en">
-         <img src="https://www.instagram.com/?hl=en" alt="Instagram" width= "40px" height= "40px"></a>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/M26eIgk" data-context="false" ><a href="//imgur.com/a/M26eIgk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
