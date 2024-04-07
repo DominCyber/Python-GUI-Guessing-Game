@@ -62,10 +62,10 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 import random
 <p>from breezypythongui import EasyFrame</p>
 <p>class GuessingGame(EasyFrame):</p>
-<p>####def __init__(self):</p>
-<p>########EasyFrame.__init__(self, title = "Guessing Game")</p>
-<p>########self.myNumber = random.randint(1, 100)</p>
-<p>########self.count = 0</p>
+<p>### def __init__(self):</p>
+<p>####### EasyFrame.__init__(self, title = "Guessing Game")</p>
+<p>####### self.myNumber = random.randint(1, 100)</p>
+<p>####### self.count = 0</p>
 <p>########greeting = "Guess a number between 1 and 100."</p>
 <p>########self.hintLabel = self.addLabel(text = greeting, row = 0, column = 0, sticky = "NSEW", columnspan = 2)</p>
 <p>########self.addLabel(text = "Your guess", row = 1, column = 0)</p>
