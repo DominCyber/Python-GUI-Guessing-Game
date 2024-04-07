@@ -1,4 +1,3 @@
-# Python-GUI-Guessing-Game
 # Python GUI Guessing Game
 ## Objective
 The Python GUI Guessing Game is intended to demonsrate programming use case methodology. This project includes the following steps: Summary and Customer Request, Analysis, Pseudocode Design, and Testing. This hands-on experience aim to establish Python programming variables, statements, and arguments techniques in an impactful manner (interactive GUI).
