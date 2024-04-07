@@ -100,19 +100,19 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 
 ### Testing
 ![1](https://i.imgur.com/msTollL.jpg)
-<p>*Ref 1: Testing initial functionality of the program*</p>
+<p><i>Ref 1: Testing initial functionality of the program</i></p>
 
 ![2](https://i.imgur.com/uNqWjQs.jpg)
-<p>*Ref 2: Testing the response of a guess that is too small*</p>
+<p><i>Ref 2: Testing the response of a guess that is too small</i></p>
 
 ![3](https://i.imgur.com/CSam3X6.jpg)
-<p>*Ref 3: Testing the response of a guess that is too large*</p>
+<p><i>Ref 3: Testing the response of a guess that is too large</i></p>
 
 ![4](https://i.imgur.com/xNfskUW.jpg)
-<p>*Ref 4: Test result of finally guessing the pseudorandom number, which displays number of attempts*</p>
+<p><i>Ref 4: Test result of finally guessing the pseudorandom number, which displays number of attempts</i></p>
 
 ![5](https://i.imgur.com/Sqy6W97.jpg)
-<p>*Ref 5: Second test, testing of new game function*</p>
+<p><i>Ref 5: Second test, testing of new game function</i></p>
 
 ![6](https://i.imgur.com/o6NUGCC.jpg)
-<p>*Ref 6: Third Test; random module seems to be biased toward high two-digit numbers*</p>
+<p><i>Ref 6: Third Test; random module seems to be biased toward high two-digit numbers</i></p>
