@@ -100,10 +100,20 @@ if __name__ == "__main__":
         print("\nProgram closed.")
         
 ### Testing
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/M26eIgk"><a href="//imgur.com/M26eIgk"></a></blockquote>
+![1](https://i.imgur.com/msTollL.jpg)
+*Ref 1: Testing initial functionality of the program*
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
+![2](https://i.imgur.com/uNqWjQs.jpg)
+*Ref 2: Testing the response of a guess that is too small*
 
-Every screenshot should have some text explaining what the screenshot is about.
+![3](https://i.imgur.com/CSam3X6.jpg)
+*Ref 3: Testing the response of a guess that is too large*
 
-*Ref 1: Network Diagram*
+![4](https://i.imgur.com/xNfskUW.jpg)
+*Ref 4: Test result of finally guessing the pseudorandom number, which displays number of attempts*
+
+![5](https://i.imgur.com/Sqy6W97.jpg)
+*Ref 5: Second test, testing of new game function*
+
+![6](https://i.imgur.com/o6NUGCC.jpg)
+*Ref 6: Third Test; random module seems to be biased toward high two-digit numbers*
