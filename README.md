@@ -62,42 +62,42 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 import random
 <p>from breezypythongui import EasyFrame</p>
 <p>class GuessingGame(EasyFrame):</p>
-<p>    def __init__(self):</p>
-<p>        EasyFrame.__init__(self, title = "Guessing Game")</p>
-<p>        self.myNumber = random.randint(1, 100)</p>
-<p>        self.count = 0</p>
-<p>        greeting = "Guess a number between 1 and 100."</p>
-<p>        self.hintLabel = self.addLabel(text = greeting, row = 0, column = 0, sticky = "NSEW", columnspan = 2)</p>
-<p>        self.addLabel(text = "Your guess", row = 1, column = 0)</p>
-<p>        self.guessField = self.addIntegerField(0, row = 1, column = 1)</p>
-<p>        self.nextButton = self.addButton(text = "Next", row = 2, column = 0, command = self.nextGuess)</p>
-<p>        self.newButton = self.addButton(text = "New game", row = 2, column = 1, command = self.newGame)</p>
+<p>####def __init__(self):</p>
+<p>########EasyFrame.__init__(self, title = "Guessing Game")</p>
+<p>########self.myNumber = random.randint(1, 100)</p>
+<p>########self.count = 0</p>
+<p>########greeting = "Guess a number between 1 and 100."</p>
+<p>########self.hintLabel = self.addLabel(text = greeting, row = 0, column = 0, sticky = "NSEW", columnspan = 2)</p>
+<p>########self.addLabel(text = "Your guess", row = 1, column = 0)</p>
+<p>########self.guessField = self.addIntegerField(0, row = 1, column = 1)</p>
+<p>########self.nextButton = self.addButton(text = "Next", row = 2, column = 0, command = self.nextGuess)</p>
+<p>########self.newButton = self.addButton(text = "New game", row = 2, column = 1, command = self.newGame)</p>
 <p>    def nextGuess(self):</p>
-<p>        self.count += 1</p>
-<p>        guess = self.guessField.getNumber()</p>
-<p>        if guess == self.myNumber:</p>
-<p>            self.hintLabel["text"] = "You've guessed it in " + \</p>
-<p>                                     str(self.count) + " attempts!"</p>
-<p>            self.nextButton["state"] = "disabled"</p>
-<p>        elif guess < self.myNumber:</p>
-<p>            self.hintLabel["text"] = "Sorry, too small!"</p>
-<p>        else:</p>
-<p>            self.hintLabel["text"] = "Sorry, too large!"</p>
-<p>    def newGame(self):</p>
-<p>        self.myNumber = random.randint(1, 100)</p>
-<p>        self.count = 0</p>
-<p>        greeting = "Guess a number between 1 and 100."</p>
-<p>        self.hintLabel["text"] = greeting</p>
-<p>        self.guessField.setNumber(0)</p>
-<p>        self.nextButton["state"] = "normal"</p>
+<p>########self.count += 1</p>
+<p>########guess = self.guessField.getNumber()</p>
+<p>########if guess == self.myNumber:</p>
+<p>############self.hintLabel["text"] = "You've guessed it in " + \</p>
+<p>#####################################str(self.count) + " attempts!"</p>
+<p>########self.nextButton["state"] = "disabled"</p>
+<p>########elif guess < self.myNumber:</p>
+<p>############self.hintLabel["text"] = "Sorry, too small!"</p>
+<p>########else:</p>
+<p>############self.hintLabel["text"] = "Sorry, too large!"</p>
+<p>####def newGame(self):</p>
+<p>########self.myNumber = random.randint(1, 100)</p>
+<p>########self.count = 0</p>
+<p>########greeting = "Guess a number between 1 and 100."</p>
+<p>########self.hintLabel["text"] = greeting</p>
+<p>########self.guessField.setNumber(0)</p>
+<p>########self.nextButton["state"] = "normal"</p>
 <p>def main():</p>
-<p>    GuessingGame().mainloop()</p>
+<p>####GuessingGame().mainloop()</p>
 <p>if __name__ == "__main__":</p>
-<p>    try:</p>
-<p>        while True:</p>
-<p>            main()</p>
-<p>    except KeyboardInterrupt:</p>
-<p>        print("\nProgram closed.")</p>
+<p>####try:</p>
+<p>########while True:</p>
+<p>#############main()</p>
+<p>####except KeyboardInterrupt:</p>
+<p>########print("\nProgram closed.")</p>
         
 ### Testing
 ![1](https://i.imgur.com/msTollL.jpg)
