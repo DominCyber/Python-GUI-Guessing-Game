@@ -99,20 +99,20 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("\nProgram closed.")</p>
 
 ### Testing
-![1](https://i.imgur.com/msTollL.jpg)
+<img src="https://i.imgur.com/msTollL.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 1: Testing initial functionality of the program</i></p>
 
-![2](https://i.imgur.com/uNqWjQs.jpg)
+<img src="https://i.imgur.com/uNqWjQs.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 2: Testing the response of a guess that is too small</i></p>
 
-![3](https://i.imgur.com/CSam3X6.jpg)
+<img src="https://i.imgur.com/CSam3X6.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 3: Testing the response of a guess that is too large</i></p>
 
-![4](https://i.imgur.com/xNfskUW.jpg)
+<img src="https://i.imgur.com/xNfskUW.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 4: Test result of finally guessing the pseudorandom number, which displays number of attempts</i></p>
 
-![5](https://i.imgur.com/Sqy6W97.jpg)
+<img src="https://i.imgur.com/Sqy6W97.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 5: Second test, testing of new game function</i></p>
 
-![6](https://i.imgur.com/o6NUGCC.jpg)
+<img src="https://i.imgur.com/o6NUGCC.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 6: Third Test; random module seems to be biased toward high two-digit numbers</i></p>
