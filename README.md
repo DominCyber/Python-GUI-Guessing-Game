@@ -27,7 +27,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 
 ### Pseudocode Design
 -Import GUI operations from the EasyFrame module, as well as the random module
--Define class to compute GUI, using EasyFrame as a passed variable
+-\nDefine class to compute GUI, using EasyFrame as a passed variable
 -compute initial class function, declaring the first parameter of the class, self, as well as 	the title string variable
 -declare pseudorandom variable array
 -declare count variable for attempts made by user
@@ -40,7 +40,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 -compute guess function, declaring first parameter of the class
 -declare count variable for attempts made by user
 -declare variable to retain pseudorandom number
--IF/ELIF/ELSE statement where user input variable equals pseudorandom 	n		 number
+-IF/ELIF/ELSE statement where user input variable equals pseudorandom number
 -compute print string that displays number of attempts
 -ELIF statement where user input is less than pseudorandom number
 -compute print string as input being too small
