@@ -5,10 +5,10 @@ The Python GUI Guessing Game is intended to demonsrate programming use case meth
 
 ### Skills Learned
 <br>-Proficiency in  Python programming variables, statements, and arguments techniques</br>
--Exercise critical thinking to address customer use cases into an object oriented language
--Convey use case into pseudocode for better visualization of code
--Familiarization with Python modules (import random)
--Familiarization with Python for potential malicious use
+<br>-Exercise critical thinking to address customer use cases into an object oriented language</br>
+<br>-Convey use case into pseudocode for better visualization of code</br>
+<br>-Familiarization with Python modules (import random)</br>
+<br>-Familiarization with Python for potential malicious use</br>
   
 ### Tools Used
 -Python 3.2
