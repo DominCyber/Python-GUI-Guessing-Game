@@ -4,14 +4,14 @@
 The Python GUI Guessing Game is intended to demonsrate programming use case methodology. This project includes the following steps: Summary and Customer Request, Analysis, Pseudocode Design, and Testing. This hands-on experience aim to establish Python programming variables, statements, and arguments techniques in an impactful manner (interactive GUI).
 
 ### Skills Learned
-<p>-Proficiency in  Python programming variables, statements, and arguments techniques</p>
+-Proficiency in  Python programming variables, statements, and arguments techniques
 <p>-Exercise critical thinking to address customer use cases into an object oriented language</p>
 <p>-Convey use case into pseudocode for better visualization of code</p>
 <p>-Familiarization with Python modules (import random)</p>
 <p>-Familiarization with Python for potential malicious use</p>
   
 ### Tools Used
-<p>-Python 3.2</p>
+-Python 3.2
 <p>-Geany Compiler</p>
 
 ## Steps
@@ -26,7 +26,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 <p>-buttons are to be disabled after game loss</p>
 
 ### Pseudocode Design
-<p>-Import GUI operations from the EasyFrame module, as well as the random module</p>
+-Import GUI operations from the EasyFrame module, as well as the random module
 <p>-Define class to compute GUI, using EasyFrame as a passed variable</p>
 <p>-compute initial class function, declaring the first parameter of the class, self, as well as 	the title string variable</p>
 <p>-declare pseudorandom variable array</p>
@@ -59,7 +59,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 <p>-TRY-WHILE-EXCEPT statement computing program closure</p>
 
 ### Implementation
-<p>import random</p>
+import random
 <p>from breezypythongui import EasyFrame</p>
 <p>class GuessingGame(EasyFrame):</p>
 <p>    def __init__(self):</p>
