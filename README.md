@@ -1,30 +1,31 @@
-# Python GUI Guessing Game
+# Python Programming Fundamentals - GUI Guessing Game
 ## Objective
-The Python GUI Guessing Game is intended to demonsrate programming use case methodology. This project includes the following steps: Summary and Customer Request, Analysis, Pseudocode Design, and Testing. This hands-on experience aim to establish Python programming variables, statements, and arguments techniques in an impactful manner (interactive GUI).
+Saint Leo University Course work intended to familiarize undergraduates with Python programming fundamentals. This practical guided project presents a virtual machine environment that explores methodologies and applications of Python use cases,analysis, pseudo code, implementation, and testing. The scenario details a customer requests a GUI modification to an existing terminal-based guessing game (interactive GUI).
 
 ### Skills Learned
 -Proficiency in  Python programming variables, statements, and arguments techniques
+<p>-Demonstrate an understanding of Python use cases, analysis, pseudo code, implementation, and testing</p>
 <p>-Exercise critical thinking to address customer use cases into an object oriented language</p>
 <p>-Convey use case into pseudocode for better visualization of code</p>
 <p>-Familiarization with Python modules (import random)</p>
 <p>-Familiarization with Python for potential malicious use</p>
   
 ### Tools Used
--Python 3.2
+-Laptop
+<p>-Python 3.2</p>
 <p>-Geany Compiler</p>
 
-## Steps
-
-### Summary and Customer Request
+### Steps
+#### Summary and Customer Request
 Customer requests a GUI modification to an existing terminal-based guessing game.
 
-### Analysis
+#### Analysis
 -The GUI modification is to include:
 <p>-labelled entry field for user inputs, computer responses</p>
 <p>-buttons for guessing and a new game</p>
 <p>-buttons are to be disabled after game loss</p>
 
-### Pseudocode Design
+#### Pseudocode Design
 -Import GUI operations from the EasyFrame module, as well as the random module
 <p>-Define class to compute GUI, using EasyFrame as a passed variable</p>
 <p>-compute initial class function, declaring the first parameter of the class, self, as well as 	the title string variable</p>
@@ -57,7 +58,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 <p>-IF statement declaring the main function as the primary function</p>
 <p>-TRY-WHILE-EXCEPT statement computing program closure</p>
 
-### Implementation
+#### Implementation
 <p>import random</p>
 <p>from breezypythongui import EasyFrame</p>
 <p>class GuessingGame(EasyFrame):</p>
@@ -98,7 +99,7 @@ Customer requests a GUI modification to an existing terminal-based guessing game
 <p>&nbsp;&nbsp;&nbsp;&nbsp;except KeyboardInterrupt:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print("\nProgram closed.")</p>
 
-### Testing
+#### Testing
 ![1](https://i.imgur.com/msTollL.jpg)
 <p><i>Ref 1: Testing initial functionality of the program</i></p>
 
