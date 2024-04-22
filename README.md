@@ -1,6 +1,6 @@
 # Python Programming Fundamentals - GUI Guessing Game
 ## Objective
-Saint Leo University Course work intended to familiarize undergraduates with Python programming fundamentals. This practical guided project presents a virtual machine environment that explores methodologies and applications of Python use cases, analysis, pseudo code, implementation, and testing. The scenario details a customer requests a GUI modification to an existing terminal-based guessing game (interactive GUI).
+Saint Leo University Course work is intended to familiarize undergraduates with Python programming fundamentals. This practical guided project presents a virtual machine environment that explores methodologies and applications of Python use cases, analysis, pseudo code, implementation, and testing. The scenario details a customer requests a GUI modification to an existing terminal-based guessing game (interactive GUI).
 
 ### Skills Learned
 -Proficiency in  Python programming variables, statements, and arguments techniques
